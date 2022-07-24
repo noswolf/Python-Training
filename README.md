@@ -3,6 +3,8 @@
 
 ## Data Analysis Datasets
 
+Day 1: [PDF Slides](Data%20Analysis/pandas.pdf)
+
 File | Source
 --- | ---
 [orders.tsv](https://raw.githubusercontent.com/noswolf/Python-Training/main/Data%20Analysis/Data/orders.tsv) | [TheUpshot](https://github.com/TheUpshot/chipotle)
