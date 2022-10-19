@@ -3,7 +3,7 @@
 
 ## Data Analysis Datasets
 
-Day 1: [PDF Slides](Data%20Analysis/pandas.pdf)
+Day 1: [PDF Slides](Data%20Analysis/Introduction%20to%20Data%20Analysis.pdf)
 
 File | Source
 --- | ---
