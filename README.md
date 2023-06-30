@@ -4,8 +4,8 @@
 ## Data Analysis Datasets
 
 Day 1: 
-[PDF Slides](Data_Analysis/Introduction%20to%20Data%20Analysis.pdf)
-[pandas.ipynb](Data_Analysis/Day%202/06-pandas.ipynb)
+
+[PDF Slides](Data_Analysis/Introduction%20to%20Data%20Analysis.pdf) | [pandas.ipynb](Data_Analysis/Day%202/06-pandas.ipynb)
 
 File | Source
 --- | ---
