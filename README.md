@@ -5,7 +5,7 @@
 
 Day 1: 
 
-[PDF Slides](Data_Analysis/Introduction%20to%20Data%20Analysis.pdf) | [pandas.ipynb](Data_Analysis/Day%202/06-pandas.ipynb) | [Exercise.ipynb](Data_Analysis/Salaries_Exercise.ipynb)
+[PDF Slides](Data_Analysis/Introduction%20to%20Data%20Analysis.pdf) | [pandas.ipynb](Data_Analysis/Day%202/06-pandas.ipynb) | [Exercise.ipynb](Data_Analysis/Salaries_Exercise.ipynb) | [Codes](Data_Analysis/Lecture_pandas.ipynb)
 
 File | Source
 --- | ---
